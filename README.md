@@ -1,0 +1,2 @@
+# Semi_automatic_tracking_annotation_tool
+视频的半自动跟踪标注工具，支持自定义规则，python 代码量很少
